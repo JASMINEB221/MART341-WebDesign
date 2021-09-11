@@ -1,2 +1,2 @@
-# Jasmine Brown MART341-WebDesign
+# JasmineBrown MART341-WebDesign
 Repository for 2021 Web Design &amp; Development Class
