@@ -1,1 +1,15 @@
-text text text
+1. Wesbites
+  * facebook.com
+  * umonline.com
+  * gihub.com
+2. An IP Address is the physical address of the machine that is then connected by the DNS which is a server that translates those addresses based on a hierarchical system.
+3. A cookie is stored data used to identify similar content based on a user's history
+4. 3 essential parts of a URL
+  * The scheme or protocol
+  * The authority or domain name
+  * The path to the file
+5. See README.md
+6. 3 Things learned so far:
+  1. Learned Markdown
+  2. Learned a new software-Atom
+  3. Learned what a URL is made of
