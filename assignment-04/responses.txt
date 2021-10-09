@@ -1,0 +1,5 @@
+13. Browsers function as a way to connect users to different search engines in order to find relevant information.
+<p> I currently use Google Chrome for all of my browsing needs<p>
+
+14. Markup language determines a pages set up based on text, media, and design.
+<p>The most common markup language is HTML or Hypertext Markup Language.<p>
