@@ -1,0 +1,3 @@
+1. I went to cnn.com. It looks a lot blockier than the current site, with lower graphics. It is currently a lot more interactive, more appealing to the eye, and easier to navigate. The design itself is a lot more appealing than it was in 2011.
+2. I learned how to create actual pages, how to properly write in html script, and how to link between pages for an overall web page experience. It was really difficult remembering and figuring out which links to use, as well as how to properly lay out my pages so that they were coming off appropriately on the page itself.
+3. ![Screenshot](./images/Screenshot (7).png)
