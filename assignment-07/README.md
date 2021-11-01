@@ -1,0 +1,3 @@
+1. Forms i have found include log in forms - to access site specific info and purchase forms to buy items online.
+2.  Examples include text boxes to log in with user information as well as check boxes to select items that you would like to purchase, complete with "submit" buttons in order to continue with log in/purchase.
+3. In order to complete this assignment, I copied the code for setting up forms and tables, and manipulated the data in order for the information to fit what I was trying to accomplish. I decided to use my own candle making business site as the focus for this homework, as it was easy for me to make it relevant to what I was doing. 
