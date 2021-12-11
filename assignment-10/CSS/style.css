@@ -1,0 +1,35 @@
+body{
+  font-family: Arial, 'Times New Roman', sans-serif;
+}
+.main-container {
+  border-style: solid;
+  border-width: 10px;
+  border-color: Brown;
+  padding: 10px;
+  background: green;
+  width: 75%;
+  margin: auto;
+}
+div.align{
+  text-align: left;
+}
+.secondary-container {
+  margin: auto;
+  width: auto;
+  padding: 50px;
+  border-bottom: 1px; burgundy solid;
+  border-spacing: inherit;
+}
+#mainheader{
+  position: relative;
+  left: 40px;
+  top; 10px;
+  color: grey;
+  opacity: 75%;
+  font-size: 60px;
+}
+/* trying to change the color of the words */
+
+.color-text {
+  color: rgb(28, 100, 215);
+}

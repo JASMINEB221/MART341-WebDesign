@@ -1,0 +1,3 @@
+1. Universal style selectors are to style every element on a page. The element selector is for certain types of elements. Class selectors are based on elements of the same type. ID selectors are for elements with specific ID's. You would choose one over the other based on your desired result. For instance, if you only wanted one type of element to appear with a certain style, than you would choose your selector based on the criteria needed to do that task.
+2. The 3 colors I chose were brown, green, and grey. I did this because it fit with the color theme that was presented by the images I used.
+3. I could not figure out how to get the text color to change. I kept placing my tag in different areas and in different ways, and for some reason it didn't turn out at all. 
