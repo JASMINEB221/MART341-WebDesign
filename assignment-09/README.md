@@ -1,0 +1,3 @@
+1. So far learning html has been pretty easy to navigate. The most difficult part of this whole experience so far has just been making sure that my tags are complete, and reviewing everything to make sure that the pages are created properly. So far, nothing has been hard to learn, it is more about getting the code correct, so that I can actually create something out of what I am doing.
+2. I am definitely anxious to start styling. I think it will start getting more complicated to make sure all style elements are done correctly.
+3. Challenges include just making sure that my tags are correct, and trying to make sure that I am creating my pages in an easily readable, way. Successes include just being able to create products that are complete and work. 
