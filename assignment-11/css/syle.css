@@ -1,0 +1,15 @@
+div{
+  text-align: left;
+  line-height: normal;
+  font-family: sans-serif, rubik;
+  margin-bottom: auto;
+  padding:inherit;
+}
+h1, h2{
+  text-align: right;
+  font-family: sans-serif, rubik;
+}
+.first-paragraph: ::first-letter{
+  font-size: 50px;
+  font-weight: bolder;
+}
